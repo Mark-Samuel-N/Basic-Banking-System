@@ -1,0 +1,2 @@
+# Basic-Banking-System
+Creating a simple dynamic website which has the following specifications. a) Dummy data in any database for up to 10 customers. b) Customers table with basic fields such as name, email, bank balance etc. c) Transaction history will record all the transfers which has happened. Flow: Home Page > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to > View all Customers.
